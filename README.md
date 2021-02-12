@@ -2,6 +2,8 @@
 
 Needed for min12xxw, which itself works without issues. Configure it with --prefix=/usr/local.
 
+It works on Apple Silicon.
+
 # How to install
 
 1. Install ghostscript with homebrew
